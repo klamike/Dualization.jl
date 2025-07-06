@@ -27,6 +27,6 @@ Documenter.makedocs(
 )
 
 Documenter.deploydocs(;
-    repo = "github.com/jump-dev/Dualization.jl.git",
+    repo = "github.com/klamike/Dualization.jl.git",
     push_preview = true,
 )
